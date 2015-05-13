@@ -1,0 +1,2 @@
+(defn equal-to [n]
+        (fn [k] (== k n)))
